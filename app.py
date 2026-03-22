@@ -10,6 +10,22 @@ st.sidebar.markdown(
     "[NiceHash Profitability Calculator](https://www.nicehash.com/profitability-calculator)"
 )
 
+st.sidebar.markdown("### ⚡ GPU Efficiency (Quick Check)")
+
+st.sidebar.markdown(
+    """
+Check up-to-date mining efficiency, hashrates and prices:
+
+- NVIDIA RTX 4060  
+- NVIDIA RTX 3070  
+- NVIDIA RTX 3060 Ti  
+- NVIDIA RTX 4070  
+- AMD RX 7900 XTX  
+
+👉 [NiceHash Profitability Calculator](https://www.nicehash.com/profitability-calculator)
+"""
+)
+
 # -------------------------
 # Helpers
 # -------------------------
