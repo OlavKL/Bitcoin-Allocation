@@ -5,6 +5,11 @@ from datetime import date
 
 st.set_page_config(page_title="Bitcoin Allocation", layout="wide")
 
+st.sidebar.markdown("### 🔗 External Tools")
+st.sidebar.markdown(
+    "[NiceHash Profitability Calculator](https://www.nicehash.com/profitability-calculator)"
+)
+
 # -------------------------
 # Helpers
 # -------------------------
